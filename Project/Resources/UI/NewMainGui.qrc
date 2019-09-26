@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/MainGui">
+        <file>logo.png</file>
+        <file>sgprogress.png</file>
+        <file>sgtrain.png</file>
+    </qresource>
+</RCC>
